@@ -21,9 +21,9 @@ This app is primarily aimed for use by college students who are looking to gain 
 
 ## How?
 1) Our users create their user profiles by entering their personal information into the system.
-2) Our users to listen to specific songs chosen from the study (to allow for a fair mode of assessment).
+2) Our users to listen to specific songs chosen from the study (to allow for a fair mode of assessment). We will have to do statistical analysis to figure out which songs are the most relevant in what we are accomplishing. 
 3) Our users will answer questions about the music they are listening to, along with other related ethical questions.
-4) We will analyze their song choice by applying our algorithms of assessment to their answers.
+4) We will analyze their song choice by applying our algorithms of assessment to their answers. 
 5) After assessing their information, we will present their personality profile to the user.
 6) Their user profile will be updated to reflect the findings. The interactive profile will allow the individual to learn more about their music taste and how it relates to their personality.
 
@@ -41,6 +41,7 @@ This app is primarily aimed for use by college students who are looking to gain 
   - Create algorithms based on data analysis work
   - Identify relationships between music and personality for each user
 4) Potentially allow for the integration of other assessment-style questionnaires
+5) Present results to our participants. 
 
 ## Scope
 Our goal is to make our web application fully functioning, user friendly, interactive, and engaging. This can be achieved through the use of elegant and contemporary colors, engaging visuals, and other interactive features for our users. Our algorithms of assessment will also require a great deal of sophisiticated data processing, along with a fine-tuned method of assessment. While this project will require a great deal of effort, especially in terms of creating our algorihtm on the backend and customizing our user experience, it is completely doable with effort, team work, and employing agile software devleopment practices. 
